@@ -2,4 +2,5 @@
 . "$(dirname -- "$0")/_/husky.sh"
 
 # npm test
-yarn lint:check
+# yarn lint:check
+yarn lint-staged
