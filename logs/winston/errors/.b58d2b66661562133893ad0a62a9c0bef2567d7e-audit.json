@@ -1,25 +1,25 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\.b58d2b66661562133893ad0a62a9c0bef2567d7e-audit.json",
+  "files": [
+    {
+      "date": 1686239455778,
+      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-21-error.log",
+      "hash": "f66a545d6972a1f2c51fccd5cdeeeb77dd1b47f7fed5ecc0671000b63e25ef96"
     },
-    "auditLog": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\.b58d2b66661562133893ad0a62a9c0bef2567d7e-audit.json",
-    "files": [
-        {
-            "date": 1686239455778,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-21-error.log",
-            "hash": "f66a545d6972a1f2c51fccd5cdeeeb77dd1b47f7fed5ecc0671000b63e25ef96"
-        },
-        {
-            "date": 1686240178156,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-22-error.log",
-            "hash": "ef0e1810a8410365b914ee0a280a5cc7ea0e16c4f571fbe3cb91a7530702e412"
-        },
-        {
-            "date": 1686244105099,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-23-error.log",
-            "hash": "aaad400696932698187ab576a631d17c6ff28cde66486dd4b884b86a5926f09f"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1686240178156,
+      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-22-error.log",
+      "hash": "ef0e1810a8410365b914ee0a280a5cc7ea0e16c4f571fbe3cb91a7530702e412"
+    },
+    {
+      "date": 1686244105099,
+      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-08-06-23-error.log",
+      "hash": "aaad400696932698187ab576a631d17c6ff28cde66486dd4b884b86a5926f09f"
+    }
+  ],
+  "hashType": "sha256"
 }
