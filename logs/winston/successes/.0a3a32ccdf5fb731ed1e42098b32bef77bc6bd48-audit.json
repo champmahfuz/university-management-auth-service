@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\.0a3a32ccdf5fb731ed1e42098b32bef77bc6bd48-audit.json",
+    "files": [
+        {
+            "date": 1685891763659,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-21-error.log",
+            "hash": "7d12f5d92552eae3bb103e5276d56d75c247d2d1878c75f57445e64a22d5aa72"
+        },
+        {
+            "date": 1685894482069,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-22-error.log",
+            "hash": "d64d82dc5bd404b46c040af36710ad0eabaa75f4849f929b0a90c1037b81bd5a"
+        },
+        {
+            "date": 1685898700201,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-23-error.log",
+            "hash": "0eda646a0d5929e503df6a3eed9824bf60e25a495bb9b18e383ee8ebe02e5590"
+        },
+        {
+            "date": 1685944525471,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-11-error.log",
+            "hash": "dc4af7c004baaf31171661788dfe24bd5de5b04673a607a9f8c4543fc9030ccd"
+        },
+        {
+            "date": 1685944865299,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-12-error.log",
+            "hash": "603d53e2921e377bb1f9bd5af7fbf9037af02ee2b336db346cae22ca2196c987"
+        },
+        {
+            "date": 1685958701830,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-15-error.log",
+            "hash": "e38178fbb69ccbd80a83d5ae220a2fe29a35d9539d9b519cd822da9070f658b2"
+        },
+        {
+            "date": 1685959643097,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-16-error.log",
+            "hash": "1bd9ff9b2bcab398f1df7476315921989ced1c0f7382fe1546b77573151ea00c"
+        },
+        {
+            "date": 1685962938484,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-17-error.log",
+            "hash": "35658f6f6e6bb2f3aa9aaea93cbfacde9202f29d07c1c9a308975c860f0c0c31"
+        },
+        {
+            "date": 1685980326741,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-21-error.log",
+            "hash": "41d30f4bf1f93803cff1b4b6be97b75ba242830aad9a1ce703b55526257f83e6"
+        },
+        {
+            "date": 1685981003245,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-22-error.log",
+            "hash": "1d8a0b271886275c88551a34456ef280a8f44f17bcf57e16a361f320900711f3"
+        },
+        {
+            "date": 1685985526847,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-23-error.log",
+            "hash": "26370a940a824cc79603cd4f2aa09141b9330526dfd428557b8ea1afb1249d69"
+        },
+        {
+            "date": 1686060882103,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-20-error.log",
+            "hash": "64e0df76bd96d2227e6689f366fdf287abc737b4c44e5731e2b8e22ec0f84658"
+        },
+        {
+            "date": 1686237089919,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-21-error.log",
+            "hash": "2f1c608b7ae9b67872a866babc378605bbc7908e7e92f80280424c0aceadc1f5"
+        }
+    ],
+    "hashType": "sha256"
+}
