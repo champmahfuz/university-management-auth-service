@@ -44,6 +44,21 @@
       "date": 1686309053109,
       "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-17-error.log",
       "hash": "b2c7c47f2d02db52b1b0d08865874b16fbe53ce298e65c7920b4cf7eaa319c5f"
+    },
+    {
+      "date": 1686325863289,
+      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-21-error.log",
+      "hash": "95d10b889b11e644caff7d825db7de2f3cef9064d490368c1fe7440bf77cfba4"
+    },
+    {
+      "date": 1686330212365,
+      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-09-06-23-error.log",
+      "hash": "43efb2d22c6f23561edfb60a82c469fc4c8a9eac73b110e2253b5e4faaff4fd1"
+    },
+    {
+      "date": 1686333938720,
+      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-10-06-00-error.log",
+      "hash": "57e9fc861211d36e3c0ea8240a400e4d900126be733fc343edfc1eb4a46f29f9"
     }
   ],
   "hashType": "sha256"

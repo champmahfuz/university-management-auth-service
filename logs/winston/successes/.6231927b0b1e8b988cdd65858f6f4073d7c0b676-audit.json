@@ -104,6 +104,21 @@
       "date": 1686309053088,
       "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-17-success.log",
       "hash": "a16d0ce1f1ba49bc0ba0b626cbdce5980b750afb02dc8792a332f65b1023d7f2"
+    },
+    {
+      "date": 1686325863275,
+      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-21-success.log",
+      "hash": "d31a878383dd315e67505270a7fa00d2841b723893a02abed2a006b495c4ac42"
+    },
+    {
+      "date": 1686330212349,
+      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-23-success.log",
+      "hash": "cb72b92f70b3807389ad8f1d9480980aa1413a96ac06fa1d948466d51f70556c"
+    },
+    {
+      "date": 1686333938703,
+      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-00-success.log",
+      "hash": "4f4a9826d43094472b1c8da3472fe467392bb32f8a5c228b19a955731cd94086"
     }
   ],
   "hashType": "sha256"
