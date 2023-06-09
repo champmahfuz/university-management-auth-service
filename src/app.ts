@@ -1,17 +1,26 @@
-import express, { Application, Request, Response } from "express";
-const app: Application = express();
-import cors from "cors";
-const port = 3000;
+import express, { Application } from 'express'
+const app: Application = express()
+import cors from 'cors'
+import globalErrorHandeler from './app/middlewares/globalErrorHandeler'
+import { UserRoutes } from './app/modules/users/user.route'
 
-app.use(cors());
+app.use(cors())
 
 //parser
-app.use(express.json());
-app.use(express.urlencoded({ extended: true }));
+app.use(express.json())
+app.use(express.urlencoded({ extended: true }))
+// console.log(process.env)
+
+//application route
+
+app.use('/api/v1/users/', UserRoutes)
 
 //testing
-app.get("/", (req: Request, res: Response) => {
-  res.send("Working Successfully");
-});
+// app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+//   throw new Error('Testing Error Logger')
+// })
 
-export default app;
+//global error handeler
+app.use(globalErrorHandeler)
+
+export default app
