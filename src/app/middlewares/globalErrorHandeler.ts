@@ -6,11 +6,13 @@ import ApiError from '../../errors/ApiError';
 import { errorlogger } from '../../shared/logger';
 import { ZodError } from 'zod';
 import handleZodError from '../../errors/handleZodError';
+import handleCastError from '../../errors/handleCastError';
 
 const globalErrorHandeler: ErrorRequestHandler = (
   error,
   req: Request,
   res: Response,
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   next: NextFunction
 ) => {
   // eslint-disable-next-line no-unused-expressions
@@ -35,6 +37,12 @@ const globalErrorHandeler: ErrorRequestHandler = (
     message = simplifiedError.message;
     errorMessages = simplifiedError.errorMessages;
     // console.log(error);
+  } else if (error?.name === 'CastError') {
+    // res.status(200).json({ error });
+    const simplifiedError = handleCastError(error);
+    statusCode = simplifiedError.statusCode;
+    message = simplifiedError.message;
+    errorMessages = simplifiedError.errorMessages;
   } else if (error instanceof ApiError) {
     statusCode = error?.statusCode;
     message = error?.message;
@@ -65,7 +73,6 @@ const globalErrorHandeler: ErrorRequestHandler = (
     stack: config.env !== 'production' ? error?.stack : undefined,
     // error,
   });
-  next();
 };
 
 export default globalErrorHandeler;
