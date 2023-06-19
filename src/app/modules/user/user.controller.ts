@@ -1,37 +1,22 @@
-import { RequestHandler } from 'express'
-import { usersServices } from './user.services'
+import { Request, Response } from 'express';
+import { usersServices } from './user.service';
+import catchAsync from '../../../shared/catchAsync';
+import sendResponse from '../../../shared/sendResponse';
+import httpStatus from 'http-status';
+import { IUser } from './user.interfaces';
 
-const createUser: RequestHandler = async (req, res, next) => {
-  try {
-    //
-    // const createUserZodSchema = z.object({
-    //   body: z.object({
-    //     user: z.object({
-    //       role: z.string({
-    //         required_error: 'Role is required!!!',
-    //       }),
-    //       password: z.string().optional(),
-    //     }),
-    //   }),
-    // })
+const createStudent = catchAsync(async (req: Request, res: Response) => {
+  const { student, ...userData } = req.body;
+  const result = await usersServices.createStudent(student, userData);
 
-    // export const UserValidation = {
-    //   createUserZodSchema,
-    // }
-    //
-
-    const { user } = req.body
-    const result = await usersServices.createUser(user)
-    res.status(200).json({
-      success: true,
-      message: 'user created successfully!',
-      data: result,
-    })
-  } catch (err) {
-    next(err)
-  }
-}
+  sendResponse<IUser>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'user created successfully!',
+    data: result,
+  });
+});
 
 export const UserController = {
-  createUser,
-}
+  createStudent,
+};

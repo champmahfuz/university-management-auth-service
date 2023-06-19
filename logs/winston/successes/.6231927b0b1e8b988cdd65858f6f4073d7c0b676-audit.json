@@ -1,110 +1,240 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\.6231927b0b1e8b988cdd65858f6f4073d7c0b676-audit.json",
-  "files": [
-    {
-      "date": 1685891763647,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-21-success.log",
-      "hash": "7b5cc347a728e035149b16a075003b986c2035dceaf10051529af167f3bec68c"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1685894482057,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-22-success.log",
-      "hash": "89939886b38da90d6e80b147fe434417fecc341f7752086096571c2c58d0fe41"
-    },
-    {
-      "date": 1685898700184,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-23-success.log",
-      "hash": "5e4578b7e45c25787591e9df870bb3c893d01336a9d0490d3ee9087d605f2326"
-    },
-    {
-      "date": 1685944525451,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-11-success.log",
-      "hash": "96c5a6aeffa33d891958ce4abb66edd2c00861116856abf1a513b0f46e6dc049"
-    },
-    {
-      "date": 1685944865284,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-12-success.log",
-      "hash": "f777cac0866b730f3eb6b8e914de0487ef2255126a8fc97f0bedaa03d6c7cb9c"
-    },
-    {
-      "date": 1685958701810,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-15-success.log",
-      "hash": "f0d12b9413beda4956ba957820b6639db290483d6cff25c135dc50ff2ea15c7a"
-    },
-    {
-      "date": 1685959643082,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-16-success.log",
-      "hash": "f4bf14c4f882405cb362ecd4ddb8448aa67e2369c6f8a5519c784c1e5e183d23"
-    },
-    {
-      "date": 1685962938473,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-17-success.log",
-      "hash": "d74c1a764cf5ed0d1b8aedba319e557918af914597196b322247f3c61bd9771a"
-    },
-    {
-      "date": 1685980326728,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-21-success.log",
-      "hash": "387c2849bed1fdc6968a17554817dbc5f72b36a8c78aee926d290c02877b656c"
-    },
-    {
-      "date": 1685981003233,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-22-success.log",
-      "hash": "0d55c10eedaeb995cd2b31ccbb5b07f92be12d8de99b17bbcf501bf86bafa953"
-    },
-    {
-      "date": 1685985526834,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-23-success.log",
-      "hash": "fd52504acdcc756e10c8f6c953b78fcbab75bf7685d16e09134b8fd751c3ed07"
-    },
-    {
-      "date": 1686060882087,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-20-success.log",
-      "hash": "625249c8f5a9ec7f3d02d7a556f019a6859c3ab95707ed86701bb7e0ea79d8f2"
-    },
-    {
-      "date": 1686237089894,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-21-success.log",
-      "hash": "6054da179a7e46652b0fd454ef8a0860e426e55058f0293fda4b99460101cb91"
-    },
-    {
-      "date": 1686240178140,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-22-success.log",
-      "hash": "8b69ac4d491d57def03a8b00c9cac31a467a076d390ce1e5b188f0f5a2c504e4"
-    },
-    {
-      "date": 1686244164045,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-23-success.log",
-      "hash": "0c0a5824466aaaa63e305e4e540d5c97fea8516a734548b93daa4d4422a2cca5"
-    },
-    {
-      "date": 1686247939707,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-00-success.log",
-      "hash": "14e65f13d681dd142d37f1ade346b0f06bb73dc592d643df059b57c479af9d63"
-    },
-    {
-      "date": 1686250802930,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-01-success.log",
-      "hash": "662ade2fd12b2ced56d7c454bf89bbd4dcc9c66bf5d9cd8187cd6d8591a09f39"
-    },
-    {
-      "date": 1686277951152,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-08-success.log",
-      "hash": "ab20f48135916fa7be7e36f6cf47938482569dd03e17ff3c84d4b39fff4278c0"
-    },
-    {
-      "date": 1686297762570,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-14-success.log",
-      "hash": "1882a4d56dfbcd6dbe62d94081535af6acb2b1cf0f98c8845bda36e08605b161"
-    },
-    {
-      "date": 1686309053088,
-      "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-17-success.log",
-      "hash": "a16d0ce1f1ba49bc0ba0b626cbdce5980b750afb02dc8792a332f65b1023d7f2"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\.6231927b0b1e8b988cdd65858f6f4073d7c0b676-audit.json",
+    "files": [
+        {
+            "date": 1685981003233,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-22-success.log",
+            "hash": "0d55c10eedaeb995cd2b31ccbb5b07f92be12d8de99b17bbcf501bf86bafa953"
+        },
+        {
+            "date": 1685985526834,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-23-success.log",
+            "hash": "fd52504acdcc756e10c8f6c953b78fcbab75bf7685d16e09134b8fd751c3ed07"
+        },
+        {
+            "date": 1686060882087,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-20-success.log",
+            "hash": "625249c8f5a9ec7f3d02d7a556f019a6859c3ab95707ed86701bb7e0ea79d8f2"
+        },
+        {
+            "date": 1686237089894,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-21-success.log",
+            "hash": "6054da179a7e46652b0fd454ef8a0860e426e55058f0293fda4b99460101cb91"
+        },
+        {
+            "date": 1686240178140,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-22-success.log",
+            "hash": "8b69ac4d491d57def03a8b00c9cac31a467a076d390ce1e5b188f0f5a2c504e4"
+        },
+        {
+            "date": 1686244164045,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-08-06-23-success.log",
+            "hash": "0c0a5824466aaaa63e305e4e540d5c97fea8516a734548b93daa4d4422a2cca5"
+        },
+        {
+            "date": 1686247939707,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-00-success.log",
+            "hash": "14e65f13d681dd142d37f1ade346b0f06bb73dc592d643df059b57c479af9d63"
+        },
+        {
+            "date": 1686250802930,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-01-success.log",
+            "hash": "662ade2fd12b2ced56d7c454bf89bbd4dcc9c66bf5d9cd8187cd6d8591a09f39"
+        },
+        {
+            "date": 1686277951152,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-08-success.log",
+            "hash": "ab20f48135916fa7be7e36f6cf47938482569dd03e17ff3c84d4b39fff4278c0"
+        },
+        {
+            "date": 1686297762570,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-14-success.log",
+            "hash": "1882a4d56dfbcd6dbe62d94081535af6acb2b1cf0f98c8845bda36e08605b161"
+        },
+        {
+            "date": 1686309053088,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-17-success.log",
+            "hash": "a16d0ce1f1ba49bc0ba0b626cbdce5980b750afb02dc8792a332f65b1023d7f2"
+        },
+        {
+            "date": 1686325863275,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-21-success.log",
+            "hash": "d31a878383dd315e67505270a7fa00d2841b723893a02abed2a006b495c4ac42"
+        },
+        {
+            "date": 1686330212349,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-09-06-23-success.log",
+            "hash": "cb72b92f70b3807389ad8f1d9480980aa1413a96ac06fa1d948466d51f70556c"
+        },
+        {
+            "date": 1686333938703,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-00-success.log",
+            "hash": "4f4a9826d43094472b1c8da3472fe467392bb32f8a5c228b19a955731cd94086"
+        },
+        {
+            "date": 1686341269934,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-02-success.log",
+            "hash": "54c9f4ce9b403e70e273d82c774b97a89d063810d5307ba16e489a40204489fd"
+        },
+        {
+            "date": 1686367318914,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-09-success.log",
+            "hash": "d97b6d6a8a67ffc2ff2bd724b945ed3b22476595325241bf935f616ff23541e5"
+        },
+        {
+            "date": 1686369644625,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-10-success.log",
+            "hash": "ac26eef3bce9c59d9fa36f36d32ac2fb3cfefb6f5a2bd8f68240a2a24ad71ece"
+        },
+        {
+            "date": 1686373200089,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-11-success.log",
+            "hash": "1d37440906035ff3d8f7036933090a174550b81eb4d5474401eedc7c9d77ea45"
+        },
+        {
+            "date": 1686386917698,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-14-success.log",
+            "hash": "9a334d4d6659f15dbae63c10aca04c2b79d0cdb3da8274c718f4d40412be5e9a"
+        },
+        {
+            "date": 1686387680225,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-15-success.log",
+            "hash": "9e429e51a51ea9c23e709e39164742759d83642b1413b6be6f9639d0aa14c9c0"
+        },
+        {
+            "date": 1686391626847,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-16-success.log",
+            "hash": "3f7ddea2007b135f33ccbe709031d6d471b1e50cf61632d19f64d264055ed10d"
+        },
+        {
+            "date": 1686398059485,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-17-success.log",
+            "hash": "c25ea166329672f5220d53e06f778ad0e5e0aa8dd2a1ffe9a1be45610c2f3f82"
+        },
+        {
+            "date": 1686399626974,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-18-success.log",
+            "hash": "5adb804abe1dad6fbbe7bbecf9b376fface7f0ac7a2f0ba700ce3ba3113eefc6"
+        },
+        {
+            "date": 1686416724840,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-10-06-23-success.log",
+            "hash": "f3701c501e2ba2abeedb54e3dd0bcf72e0828657fe21a1f62093fe9cf8b53341"
+        },
+        {
+            "date": 1686420039570,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-11-06-00-success.log",
+            "hash": "f358ed102558ff92b8def14420299d0a4f58ffdfb5abb1858d8d9fcafdab5df2"
+        },
+        {
+            "date": 1686497559293,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-11-06-21-success.log",
+            "hash": "b4d56eaf59147cc56b3787168d54c70033297bf303782b59bfa2b9b4dff73b6a"
+        },
+        {
+            "date": 1686499461930,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-11-06-22-success.log",
+            "hash": "d2d32100183434f48582e819b66ad3a1c9acd495a813ebbd259a4a3dfa48edd2"
+        },
+        {
+            "date": 1686504434102,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-11-06-23-success.log",
+            "hash": "61e4ad3a56d34b5a552f622e71d3800a556aa30e0b3cf444c7ffe6bde853384b"
+        },
+        {
+            "date": 1686506630326,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-12-06-00-success.log",
+            "hash": "09cab6f06a000a8daeea8edf1c796b24b331f10c2176a208bc192042caae553f"
+        },
+        {
+            "date": 1686510057585,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-12-06-01-success.log",
+            "hash": "1d542d499f9ca14797bee75802a79387c01a026fb7c94210ded61c82350577a8"
+        },
+        {
+            "date": 1686546453666,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-12-06-11-success.log",
+            "hash": "0c16b76ba9c3b9a28ca378fbd53160a2da2e11db245ef25fc3fb14c1b2f78767"
+        },
+        {
+            "date": 1686921440480,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-19-success.log",
+            "hash": "0d4f32de033cc3a734501f60d482a8d28bc99e95ab2a46a6866cce1276192d87"
+        },
+        {
+            "date": 1686926311108,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-20-success.log",
+            "hash": "b590f99ebe415229ace879e05164996f7e5ceb3dc751e84a3ea366c2d50b34cc"
+        },
+        {
+            "date": 1686927826030,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-21-success.log",
+            "hash": "9d23318eb7155bb1c90e78d18a83ebe482135f31b83cab05d478159fb0cd51f8"
+        },
+        {
+            "date": 1686932236177,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-22-success.log",
+            "hash": "2f2678f15edd3e692f092038dda6024b66395271651a72da985f3141b5aee396"
+        },
+        {
+            "date": 1686935901222,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-16-06-23-success.log",
+            "hash": "ce161869517834ea8efe6c6551a44b9d2942dd1eaeccf7a2dae80c5bbe75ddc6"
+        },
+        {
+            "date": 1687002352167,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-17-success.log",
+            "hash": "4e20720bb7c3576d5677e47e2c0afbaee53a163d80f7f3a4556f8f2326b518ec"
+        },
+        {
+            "date": 1687010947130,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-20-success.log",
+            "hash": "284688d26dc71d858ef63cc5d8e88a47e8b6d4dc82253e35d4def2f5943ae6d0"
+        },
+        {
+            "date": 1687014968132,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-21-success.log",
+            "hash": "f3308416df5b01d15ba3a74e632c0668a37d29aac6f9be8fbcef9caca6d08388"
+        },
+        {
+            "date": 1687018490602,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-22-success.log",
+            "hash": "df54092be3116d048fbac48529c804cddd4335c28d47eac8df0654db2ebf9e16"
+        },
+        {
+            "date": 1687021803254,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-23-success.log",
+            "hash": "af47736836d1f865c5ca2dccd177e74cfda16dd0578d9633e6826098ef89476c"
+        },
+        {
+            "date": 1687024928015,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-00-success.log",
+            "hash": "142c9189fb67ac7483b2938f1fce053b9c61178f64321649befd3ff1658d6c58"
+        },
+        {
+            "date": 1687084442581,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-16-success.log",
+            "hash": "703e5c1f9920e1d73a712d2776767afb111343ef3a85814a91cfcad0a07b0c4a"
+        },
+        {
+            "date": 1687087912119,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-17-success.log",
+            "hash": "c5639bf2595512c99724ec9aee1177917658a15ea19b404b6e19df9ac1d2b4ed"
+        },
+        {
+            "date": 1687188993927,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-19-06-21-success.log",
+            "hash": "e50aab1b59091e5fed402d1491f31483f880e87b41302753504455e12ec27674"
+        },
+        {
+            "date": 1687190424806,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-19-06-22-success.log",
+            "hash": "c3eb218c83bb7d906631cdeb273266d23b5354bfe7930c53eca651c79186b519"
+        }
+    ],
+    "hashType": "sha256"
 }
