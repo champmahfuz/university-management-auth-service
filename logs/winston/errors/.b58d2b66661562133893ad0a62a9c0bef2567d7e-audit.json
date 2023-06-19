@@ -169,6 +169,51 @@
             "date": 1687002352194,
             "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-17-error.log",
             "hash": "cc710d950da3803da4b8441eef25b892cb6b284e23b67861161ca9596cc3bf04"
+        },
+        {
+            "date": 1687010947150,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-20-error.log",
+            "hash": "cedb607c5bfb6c0dfe1574558df0bddf155746a2109b57c9c6578741164b2b6c"
+        },
+        {
+            "date": 1687014968150,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-21-error.log",
+            "hash": "3a5af7d6296f42c4650782ae640059b478e8e77c09e127aa3659276fcd752433"
+        },
+        {
+            "date": 1687018490614,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-22-error.log",
+            "hash": "cd319e505d19f3025da8b27c0fe34d9ef9593891238945e4a69281edad467887"
+        },
+        {
+            "date": 1687021803267,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-17-06-23-error.log",
+            "hash": "cae2afe0d729839f31cc8d2db4cb8f8332d501dc2546719da2397e4dd59d080b"
+        },
+        {
+            "date": 1687024928035,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-18-06-00-error.log",
+            "hash": "217c6c975c1fe61f242d57b2ec80e217fca55ded85526cc2a4efa9e6c69823cf"
+        },
+        {
+            "date": 1687084442606,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-18-06-16-error.log",
+            "hash": "26ebd8dc21587c4a4ba75e9869ca921883e6c8892be04c1b5be65049ee1ee925"
+        },
+        {
+            "date": 1687087912153,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-18-06-17-error.log",
+            "hash": "0b10dbe232ecd94938d2e53a995cd22cc4c071cdf0cce2277ea8dbebb522e06d"
+        },
+        {
+            "date": 1687188993975,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-19-06-21-error.log",
+            "hash": "13fa396bb50e107ecf411c5e980cbbbca5fe592a196385bc71daa9813ace0063"
+        },
+        {
+            "date": 1687190424820,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\errors\\phu-2023-19-06-22-error.log",
+            "hash": "dffbbbaa98a6f96cb80f5747cdf9879d3fc6b7334a24bcbc50ffa6d2b6072684"
         }
     ],
     "hashType": "sha256"

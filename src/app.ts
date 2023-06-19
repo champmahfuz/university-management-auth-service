@@ -4,6 +4,7 @@ import cors from 'cors';
 import globalErrorHandeler from './app/middlewares/globalErrorHandeler';
 import routes from './app/routes';
 import httpStatus from 'http-status';
+// import { generateFacultyId } from './app/modules/user/user.utlis';
 
 app.use(cors());
 
@@ -37,5 +38,16 @@ app.use((req: Request, res: Response, next: NextFunction) => {
   });
   next();
 });
+
+// const academicSemester = {
+//   code: '01',
+//   year: '2025',
+// };
+
+// const testId = async () => {
+//   const testId = await generateFacultyId();
+//   console.log(testId);
+// };
+// testId();
 
 export default app;

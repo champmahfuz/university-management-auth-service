@@ -6,51 +6,6 @@
     "auditLog": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\.6231927b0b1e8b988cdd65858f6f4073d7c0b676-audit.json",
     "files": [
         {
-            "date": 1685891763647,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-21-success.log",
-            "hash": "7b5cc347a728e035149b16a075003b986c2035dceaf10051529af167f3bec68c"
-        },
-        {
-            "date": 1685894482057,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-22-success.log",
-            "hash": "89939886b38da90d6e80b147fe434417fecc341f7752086096571c2c58d0fe41"
-        },
-        {
-            "date": 1685898700184,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-04-06-23-success.log",
-            "hash": "5e4578b7e45c25787591e9df870bb3c893d01336a9d0490d3ee9087d605f2326"
-        },
-        {
-            "date": 1685944525451,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-11-success.log",
-            "hash": "96c5a6aeffa33d891958ce4abb66edd2c00861116856abf1a513b0f46e6dc049"
-        },
-        {
-            "date": 1685944865284,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-12-success.log",
-            "hash": "f777cac0866b730f3eb6b8e914de0487ef2255126a8fc97f0bedaa03d6c7cb9c"
-        },
-        {
-            "date": 1685958701810,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-15-success.log",
-            "hash": "f0d12b9413beda4956ba957820b6639db290483d6cff25c135dc50ff2ea15c7a"
-        },
-        {
-            "date": 1685959643082,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-16-success.log",
-            "hash": "f4bf14c4f882405cb362ecd4ddb8448aa67e2369c6f8a5519c784c1e5e183d23"
-        },
-        {
-            "date": 1685962938473,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-17-success.log",
-            "hash": "d74c1a764cf5ed0d1b8aedba319e557918af914597196b322247f3c61bd9771a"
-        },
-        {
-            "date": 1685980326728,
-            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-21-success.log",
-            "hash": "387c2849bed1fdc6968a17554817dbc5f72b36a8c78aee926d290c02877b656c"
-        },
-        {
             "date": 1685981003233,
             "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-05-06-22-success.log",
             "hash": "0d55c10eedaeb995cd2b31ccbb5b07f92be12d8de99b17bbcf501bf86bafa953"
@@ -234,6 +189,51 @@
             "date": 1687002352167,
             "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-17-success.log",
             "hash": "4e20720bb7c3576d5677e47e2c0afbaee53a163d80f7f3a4556f8f2326b518ec"
+        },
+        {
+            "date": 1687010947130,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-20-success.log",
+            "hash": "284688d26dc71d858ef63cc5d8e88a47e8b6d4dc82253e35d4def2f5943ae6d0"
+        },
+        {
+            "date": 1687014968132,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-21-success.log",
+            "hash": "f3308416df5b01d15ba3a74e632c0668a37d29aac6f9be8fbcef9caca6d08388"
+        },
+        {
+            "date": 1687018490602,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-22-success.log",
+            "hash": "df54092be3116d048fbac48529c804cddd4335c28d47eac8df0654db2ebf9e16"
+        },
+        {
+            "date": 1687021803254,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-17-06-23-success.log",
+            "hash": "af47736836d1f865c5ca2dccd177e74cfda16dd0578d9633e6826098ef89476c"
+        },
+        {
+            "date": 1687024928015,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-00-success.log",
+            "hash": "142c9189fb67ac7483b2938f1fce053b9c61178f64321649befd3ff1658d6c58"
+        },
+        {
+            "date": 1687084442581,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-16-success.log",
+            "hash": "703e5c1f9920e1d73a712d2776767afb111343ef3a85814a91cfcad0a07b0c4a"
+        },
+        {
+            "date": 1687087912119,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-18-06-17-success.log",
+            "hash": "c5639bf2595512c99724ec9aee1177917658a15ea19b404b6e19df9ac1d2b4ed"
+        },
+        {
+            "date": 1687188993927,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-19-06-21-success.log",
+            "hash": "e50aab1b59091e5fed402d1491f31483f880e87b41302753504455e12ec27674"
+        },
+        {
+            "date": 1687190424806,
+            "name": "C:\\Users\\HP\\Desktop\\Level 2\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-19-06-22-success.log",
+            "hash": "c3eb218c83bb7d906631cdeb273266d23b5354bfe7930c53eca651c79186b519"
         }
     ],
     "hashType": "sha256"
