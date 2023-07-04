@@ -1,0 +1,2 @@
+Tue Jul 04 202318:0:16} [PH] error: Failed to connect database querySrv ECONNREFUSED _mongodb._tcp.cluster0.hfkhmxi.mongodb.net
+Tue Jul 04 202318:2:17} [PH] error: Failed to connect database querySrv ENOTFOUND _mongodb._tcp.cluster0.hfkhmxi.mongodb.net
